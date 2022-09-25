@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1664108009 source:c:\users\khaled\onedrive\documents\c_project\sdb.c
+	<stdio.h>
+	<stdlib.h>
+	"SDB.h"
+
+1664108811 c:\users\khaled\onedrive\documents\c_project\sdb.h
+
+1664064394 source:c:\users\khaled\onedrive\documents\c_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"SDB.h"
+
